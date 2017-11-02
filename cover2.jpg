@@ -1,1 +1,42 @@
-<link rel="stylesheet" type="text/css" href="http://gilbertford.com/news/wp-content/uploads/2012/07/inside-cover2.jpg">
+
+          .intro{
+         color:purple;
+         background-color:black;
+         font-size:17px;
+               }
+    
+    .header {
+      color:red;
+      font-size:50px;
+    }
+    
+      
+    body {
+    background-color:purple;
+    text-align:center;
+    width:75%
+    contact:45%
+    }
+    
+    .contect {
+      text-align:center;
+      background-color:violet;
+      width:35%
+      height:75%
+    }
+    
+    .image {
+     width:71%
+      
+    }
+   
+    p {
+      border:77xp solid red;
+      margin:10px;
+      
+      
+      }
+      
+link {
+  font-size:57px;
+}
