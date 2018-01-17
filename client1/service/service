@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Products/Service</title>
+</head>
+<style>
+body{
+  background:#00FFFF;
+
+  
+}
+img {
+  height:230px;
+  width:500px
+}
+
+.yo {
+  background:black;
+  color:violet;
+  font-size:40px;
+}
+
+body {
+  background:#00FFFF;
+}
+
+.me {
+  background:white;
+}
+</style>
+<body>
+  <div class="yo"><br><b><i><center>PRODUCTS AND SERVICE<br></b></i></div>
+  
+    <div class="me">
+  
+      <br><br>
+      
+      <center><br><strong>-Dog Nail Grinder $15</strong>
+      <br><center><img src="http://www.dog-grooming-training.com/wp-content/uploads/2012/05/dog-nail-grinder1.jpg">
+    
+      <br><br><br><strong>~Classic Spa $199.99</strong>
+      <br><img src="http://uptownpetspa.com/uploads/3/4/8/1/34815154/tub-relaxing.jpg?425">
+   <i><br>&#9830Pickup Client From Home
+    <br>&#9830Relaxing massage  
+    <br>&#9830Movies To Watch
+    <br>&#9830Nail Painting
+      <br>&#9830Hair Styling
+     <br>&#9830 Ride Home When Ready
+     
+     <br><br><br><strong>~Bassic Wash $59.99 </strong>
+    <center> <img src="https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/How-to-get-your-dog-to-love-bath-time.jpg?itok=ZfzLlzpc">
+     
+      <br><br><br><br><center><strong>~Pampered Pooch $99.99</strong>
+     <br><center> <img src="https://www.furryfootsteps.com/wp-content/uploads/2016/06/spoileddog.jpg">
+    
+      
+      <hr>
+    <center>  <img src="https://img.grouponcdn.com/deal/7MXjE3jNoXnfTu4pEbE9/Y2-2560x1536/v1/c700x420.jpg">
+  <br> <center> SHAMPOO $14.99
+    
+    <br><br><br><br><center><img src="https://sep.yimg.com/ay/gundog/ready-dog-tactical-canine-first-aid-trauma-kit-16.jpg">
+    <br><center>CANINE FIRST AID KIT $137.99
+    
+      <br><br> <br><br><center><img src="https://images-na.ssl-images-amazon.com/images/I/81-dw183zhL._SL1280_.jpg">
+      <br><center>SOGGY DOGGY TOWEL $7.99
+    
+      <br><br><br><br><img src="https://www.petmountain.com/photos/product/giant/114420S598697/ball-toys-for-dogs/kong-squeezz-crackle-ball-dog-toy.jpg">
+   <br><center> KONG SQUEEZZ CRACKLE BALL DOG TOY $1.99
+   
+</body>
+</html>
