@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>zero.directory</title>
+</head>
+<style>
+.me {
+  background:black;
+  color:violet;
+  font-size:50px;
+}
+
+.yo {
+  background:white;
+  font-size:15px;
+}
+
+body {
+  background:#0fff;
+}
+
+img {
+  width:408px;
+  height:405px;
+}
+</style>
+<body>
+
+  <div class="me"><i><b><center>ABOUT US </i></b></div>
+  
+  <div class="yo">
+  
+   
+    
+    
+    
+    
+    
+    <br><center><img src="http://blog.mrhoni-photography.com/wp-content/uploads/2016/10/TheGroomery2016-21-copy.jpg">
+    <br><strong>Debbie </strong>
+    <br><i>I born on Tokyo, Japan. I like to listen music and I love dogs.</i>
+  
+ 
+    
+    <br><br><br><br>
+    
+    
+    
+    
+    <br><center><img src="https://static.cms.yp.ca/ecms/media/1/1-groomery-64747-1683-owner-1200x800-1416259845.jpg">
+    <br><br><strong>Michael </strong>
+    <br><i>I live in Pasco. I have two dogs, they are attend to dog groomery. </i>
+    
+    
+    
+    
+    <br><br><br><br>
+    
+    
+    
+    
+    
+    
+   <br><center> <img src="https://s3-media2.fl.yelpcdn.com/bphoto/VBo2dlKi7bdFMbcZMSfZ1A/ls.jpg"<
+    <br><br><strong>Elisabeth  </strong>
+    <br><i>I love dogs and I'm working in Fluffy Puppy Dog Groomery. </strong>
+    
+   
+    
+    <br><br><br>
+    
+    
+    <hr>
+    
+    
+    
+    
+    
+    
+    <br><i>This company born in 1998, Debbie was worked for other company and she had a idea to do her own company. She contact with her friend in High School.
+    
+  
+  
+</body>
+</html>
