@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>clirnd1</title>
+  <meta chaeset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ 
+  </head>
+  
+<style>
+body {font-family: "Lato", sans-serif;}
+
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border:inset;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+#London {background-color:red;}
+#Paris {background-color:green;}
+#Tokyo {background-color:blue;}
+#Oslo {background-color:orange;}
+
+  .me {
+  background:black;
+  color:violet;
+  font-size:50px;
+}
+
+.yo {
+  background:cyan;
+
+}
+
+body {
+  background:#ffff00;
+}
+
+img {
+  width:408px;
+  height:405px;
+}
+
+
+
+.go {
+  font-size:25px;
+background:cyan;
+  color:black;
+  }
+
+                                        
+  .well {
+    width:auto;
+    height:auto;
+ color:black;
+  }
+  
+  .row {
+    width:auto;
+    height:auto;
+    
+  }
+  
+  
+
+  </style>
+</head>
+<body>
+ <div class="jumbotron text-center">
+   <h1>Fluffy Puppy Dog Groomery</h1>
+  </div>
+   
+<div id="Home" class="tabcontent">
+  
+  <p> <div class="me"><center><b><b>Home</b></div></b>
+  <hr>
+  </div>
+  <div class="go">
+    
+      </div>
+      <br><br>
+    
+    <center><br><iframe width="560" height="315" src="https://www.youtube.com/embed/NQ0NEYhSRJA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+     
+      <br><br>
+      <div class="well"><br><h3>Fluffy Puppy Dog Groomery
+       <br> 1362 Pooch Ln......, Pasco, WA
+        <br> 509-555-PUPS</div>
+      </div>
+      
+        </p>
+</div>
+
+<div id="Products/Service" class="tabcontent">
+  <div class="me">Products/Service</div>
+  <p>
+    <div class="go">
+  
+      <br><br>
+      
+        
+
+ 
+      
+      <div class="jumbotron text-center"><h3>-Dog Nail Grinder $15</h3></div>
+      <br><center><img src="http://www.dog-grooming-training.com/wp-content/uploads/2012/05/dog-nail-grinder1.jpg">
+    
+   <div class="jumbotron text-center"><br><br><br><h3>~Classic Spa $199.99</h3></div>
+      <br><img src="http://uptownpetspa.com/uploads/3/4/8/1/34815154/tub-relaxing.jpg?425">
+   <br><button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Click</button>
+  <div id="demo" class="collapse">
+    <br><div class="well"><i>&#9830Pickup Client From Home
+    <br>&#9830Relaxing massage  
+    <br>&#9830Movies To Watch
+    <br>&#9830Nail Painting
+      <br>&#9830Hair Styling
+     <br>&#9830 Ride Home When Ready
+    </i>
+    </div>
+    </div>
+     
+     <div class="jumbotron text-center"><br><br><br><h3>~BASICC WASH $59.99 </h3></div>
+    <center><img src="https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/How-to-get-your-dog-to-love-bath-time.jpg?itok=ZfzLlzpc">
+     
+     <div class="jumbotron text-center"> <br><br><br><br><h3>~PAMPERED POOCH $99.99</h3></div>
+     <br><center><img src="https://www.furryfootsteps.com/wp-content/uploads/2016/06/spoileddog.jpg">
+    
+      
+      
+      <hr><hr><hr>
+      
+  
+
+      
+    <center><img src="https://img.grouponcdn.com/deal/7MXjE3jNoXnfTu4pEbE9/Y2-2560x1536/v1/c700x420.jpg">
+     <div class="jumbotron text-center"><br><h3> SHAMPOO $14.99</h3></div>
+    
+    <br><br><br><br><center><img src="https://sep.yimg.com/ay/gundog/ready-dog-tactical-canine-first-aid-trauma-kit-16.jpg">
+      <div class="jumbotron text-center"><br><h3>CANINE FIRST AID KIT $137.99</h3></div>
+    
+      <br><br><br><br><center><img src="https://images-na.ssl-images-amazon.com/images/I/81-dw183zhL._SL1280_.jpg">
+      <div class="jumbotron text-center"><br><h3>>SOGGY DOGGY TOWEL $7.99</h3></div>
+    
+      <br><br><br><br><img src="https://www.petmountain.com/photos/product/giant/114420S598697/ball-toys-for-dogs/kong-squeezz-crackle-ball-dog-toy.jpg">
+      <div class="jumbotron text-center"><br><h3>KONG SQUEEZZ CRACKLE BALL DOG TOY $1.99</h3></div>
+      </div>
+      
+      </p> 
+
+    
+    </div>
+
+<div id="About Us" class="tabcontent">
+  <h3>About Us</h3>
+  <p><div class="me"><i><b><center>About Us </i></b></div>
+  
+  <div class="go">
+  
+   
+   <div class="row"> 
+    
+    
+    
+    <div class="col-sm-4" style="background-color:lavender;">
+    <br><center><img src="http://blog.mrhoni-photography.com/wp-content/uploads/2016/10/TheGroomery2016-21-copy.jpg">
+    <br><strong>Debbie</strong>
+    <div class="well"><br><i>I born on Tokyo, Japan. I like to listen music and I love dogs.</i></div>
+  </div>
+ 
+    
+    <br><br><br><br>
+    
+    
+    
+      <div class="col-sm-4" style="background-color:lavenderblush;">
+    <br><center><img src="https://static.cms.yp.ca/ecms/media/1/1-groomery-64747-1683-owner-1200x800-1416259845.jpg">
+   <strong><br><br><h3>Michael</strong>
+    <div class="well"><br><i>I live in Pasco. I have two dogs, they are attend to dog groomery.</i></div>
+    </div>
+    
+    
+    
+    <br><br><br><br>
+    
+    
+    
+    
+    
+     <div class="col-sm-4" style="background-color:lavender;">
+   <br><center><img src="https://s3-media2.fl.yelpcdn.com/bphoto/VBo2dlKi7bdFMbcZMSfZ1A/ls.jpg">
+     <strong><br>Elizabeth</strong>
+    <div class="well"><br><i>I love dogs and I'm working in Fluffy Puppy Dog Groomery.</strong></div>
+    </div>
+  
+     </div>
+    <br><br><br>
+    
+    
+    <hr>
+    
+    
+    
+    
+    
+    
+  <br><button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Click</button>
+  <div id="demo" class="collapse"><div class="well"><br><i>This company born in 1998, Debbie was worked for other company and 
+    she had a idea to do her own company. She contact with her friend in High School.</i></div>
+     </div>
+     </div>
+    </div>
+
+
+</p>
+    </div>
+
+<div id="Contact Us" class="tabcontent">
+ 
+  <p><div class="me"><center><b>Contact Us</b></div>
+    
+   <hr>
+    
+    <div class="go">
+      <div class="well"><i>If you have any question please send a e-mail to PuppyGroomery@gmail.com</i></div>
+
+      </div>   
+      
+
+      
+      
+</p>
+</div>
+
+<button class="tablink" onclick="openCity('Home', this, 'red')" id="defaultOpen">Home</button>
+<button class="tablink" onclick="openCity('Products/Service', this, 'green')">Product/Service</button>
+<button class="tablink" onclick="openCity('About Us', this, 'blue')">About Us</button>
+<button class="tablink" onclick="openCity('Contact Us', this, 'orange')">Contact Us</button>
+
+<script>
+function openCity(cityName,elmnt,color) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablink");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.backgroundColor = "";
+    }
+    document.getElementById(cityName).style.display = "block";
+    elmnt.style.backgroundColor = color;
+
+}
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+     
+</body>
+</html> 
